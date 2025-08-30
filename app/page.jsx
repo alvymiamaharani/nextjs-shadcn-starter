@@ -74,7 +74,7 @@ export default function Home() {
 
             <Button size="lg" variant="outline" asChild>
               <a
-                href="https://github.com/your-username/your-repo"
+                href="https://github.com/alvymiamaharani/nextjs-shadcn-starter"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -146,9 +146,9 @@ export default function Home() {
         <div className="text-center space-y-4">
           <div className="flex justify-center gap-4">
             <a
-              href="https://github.com/your-username/your-repo"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://github.com/alvymiamaharani/nextjs-shadcn-starter"
               className="text-muted-foreground hover:text-foreground transition-colors"
             >
               <Github className="h-6 w-6" />

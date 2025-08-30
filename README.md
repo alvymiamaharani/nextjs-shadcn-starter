@@ -19,8 +19,8 @@ A beginner-friendly, zero-config template to get you shipping fast.
 
 1. **Clone & install**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>
-   cd <your-repo>
+   git clone https://github.com/alvymiamaharani/nextjs-shadcn-starter
+   cd nextjs-shadcn-starter
    bun install
    ```
 
